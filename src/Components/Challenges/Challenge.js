@@ -80,7 +80,6 @@ const BenefitDescription = styled(Typography)(({ theme }) => ({
   padding: `0 ${theme.spacing(2)}px`,
 }));
 
-// Component
 const Challenge = () => {
   return (
     <SectionContainer>
